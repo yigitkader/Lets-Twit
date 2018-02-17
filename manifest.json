@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Hızlı Paylas",
+  "description": "Bu eklenti sayesinde  twitterda twit paylasabilirsiniz",
+  "version": "1.0",
+
+  "browser_action": 
+  {
+    "default_icon": "twitter.png",
+    "default_popup": "pencere.html"
+  },
+  "permissions":
+  [ "tabs" ]
+
+
+
+}
